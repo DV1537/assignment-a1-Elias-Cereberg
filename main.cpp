@@ -12,6 +12,7 @@ int main(int argc, const char * argv[])
 {   
     int a = 0;
     int sum = 0;
+    //abdo är sexig
     //test commit
     
     std::ifstream myReadFile;
