@@ -9,10 +9,10 @@
  * @return      [description]
  */
 int main(int argc, const char * argv[])
-{
-    
+{   
     int a = 0;
     int sum = 0;
+    //test commit
     
     std::ifstream myReadFile;
     
