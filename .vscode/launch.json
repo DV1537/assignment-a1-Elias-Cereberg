@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/testProg.exe",
-            "args": [],
+            "args": ["./tests/negatives.in"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
