@@ -50,6 +50,5 @@ int main(int argc, const char* argv[])
     }
 
     delete[] dynArr;
-    system("PAUSE");
     return 0;
 }
